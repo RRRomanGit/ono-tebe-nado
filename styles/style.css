@@ -150,7 +150,7 @@
     display: grid;
     grid-template-areas: "h h h h h" 
     "s-l t s b s-r" 
-    "f f f f f"; 
+    "f f f f f";
     grid-template-columns: 488px max-content 126px max-content auto;
     grid-template-rows: 106px max-content 73px;
 }
